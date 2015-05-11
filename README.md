@@ -29,7 +29,7 @@ Os requisitos obrigatórios para este teste são:
 - Tela com a lista de todas as cidades disponibilizadas pela classe no Parse.
 - Na seleção de uma das cidades, consultar a Google Places API e mostrar os resultados em um mapa.
 - Ao clicar num desses resultados, mostrar uma tela com o nome do local, endereço, rating e foto do local (todos fornecidos pela Google Places).
-- Na mesma tela de detalhes do local, ter um botão para exibir uma tela com os comentários existentes no Parse deste local usando como parâmetro de busca o **place_id**. Esta tela com os comentários deverá exibir tanto os comentários em si quanto a foto(se existir) deste comentário. 
+- Na mesma tela de detalhes do local, ter um botão para exibir uma tela com os comentários existentes no Parse deste local usando como parâmetro de busca o **place_id**. Esta tela com os comentários deverá exibir tanto os comentários em si quanto a foto(se existir) deste comentário. Caso não existam comentários sobre o local, exibir um alerta para o usuário que não existem comnetários.
 
 ***Sugestão:** Na tela com comentários do local, usar uma tableview com uma célula customizada(foto+comentário ou somente comentário).
 

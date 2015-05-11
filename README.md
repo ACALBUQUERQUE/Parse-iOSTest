@@ -31,10 +31,11 @@ Os requisitos obrigatórios para este teste são:
 - Ao clicar num desses resultados, mostrar uma tela com o nome do local, endereço, rating e foto do local (todos fornecidos pela Google Places).
 - Na mesma tela de detalhes do local, ter um botão para exibir uma tela com os comentários existentes no Parse deste local usando como parâmetro de busca o **place_id**. Esta tela com os comentários deverá exibir tanto os comentários em si quanto a foto(se existir) deste comentário. Caso não existam comentários sobre o local, exibir um alerta para o usuário que não existem comentários.
 
-***Sugestão:** Na tela com comentários do local, usar uma tableview com uma célula customizada(foto+comentário ou somente comentário).
+**Sugestão:** Na tela com comentários do local, usar uma tableview com uma célula customizada(foto+comentário ou somente comentário).
 
--- **Atividades bônus (opcionais):**
+**- Atividades bônus (opcionais):**
 Criar um botão nos detalhes do local para exibir uma view que possibilite escrever um comentário, tirar uma foto e envia-los para o parse.
+
 *PS: Esta tarefa só poderá ser feita se o SDK iOS do Parse for utilizado!
 
 Classes Parse

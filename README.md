@@ -3,7 +3,7 @@ Teste iOS (Parse + Google Places API)
 
 Este teste foi desenvolvido para testar as habilidades de código utilizando dados hospedados no Parse(parse.com) e Google Places API.
 
-Trata-se basicamente de um app que lista algumas cidades através do Parse, a busca de restaurantes dessa cidade através do Google Places API exibindo-os em um Mapa e uma tela de detalhes do local selecionado com os comentários sobre o restaurante selecionado.
+Trata-se basicamente de um app que lista algumas cidades através do Parse, busca de restaurantes dessa cidade através do Google Places API exibindo-os em um Mapa e uma tela de detalhes do local selecionado com os comentários sobre o restaurante selecionado.
 
 É um teste para desenvolvedores de **Nível Pleno** e o tempo máximo para execução do teste é de **8 horas**. 
 Mesmo que você não tenha terminado, não deixe de envia-lo até este limite.

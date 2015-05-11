@@ -65,7 +65,7 @@ Mais Detalhes sobre a instalação e uso do Parse iOS SDK [Aqui][2] e [Aqui][3]
 
 Para acessar esta classe **via REST**, a url de consulta terá este formato as chaves disponibilizadas deverão substituir o **ParseAppID** e **ParseJavaScriptKey**:
 
-https://ParseAppID:javascript-key=ParseJavaScriptKey@api.parse.com/1/classes/Cidades
+<https://ParseAppID:javascript-key=ParseJavaScriptKey@api.parse.com/1/classes/Cidades>
 
 **-Exemplo Retorno JSON :**
 

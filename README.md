@@ -45,7 +45,7 @@ Este teste possui 2 classes (ou tabelas) hospedadas no [Parse][1].
 #### <i class="icon-file"></i> Cidades
 Nesta classe a única variável de interesse é a **nome** pois será ela que preencherá a célula da tableview na listagem de cidades.
 
--- **iOS SDK**
+**iOS SDK**
 
 Para acessar estar classe **via SDK**, será necessário se obter o **AppID** e o **clientKey** que serão enviados por email. 
 Após isso, basta configurar o parse no appDelegate e fazer uma consulta na ViewController usando Cidades como classe.
@@ -61,7 +61,7 @@ Após isso, basta configurar o parse no appDelegate e fazer uma consulta na View
 
 Mais Detalhes sobre a instalação e uso do Parse iOS SDK [Aqui][2] e [Aqui][3]
 
--- **REST API**
+**REST API**
 
 Para acessar esta classe **via REST**, a url de consulta terá este formato as chaves disponibilizadas deverão substituir o **ParseAppID** e **ParseJavaScriptKey**:
 
@@ -96,7 +96,7 @@ Esta classe possui 3 variáveis importantes para o projeto:
 
 Para acessar os dados via SDK ou REST, basta seguir os exemplos citados na classe de **Cidades** modificando apenas o nome da classe para **Comentarios**.
 
-**- Retorno JSON da classe de Comentários:**
+**-Retorno JSON da classe de Comentários:**
 
     {
 	    results: [
@@ -139,7 +139,7 @@ Mais detalhes deste serviço pode ser encontrado [aqui][4].
 Para capturar a foto do local, será necessário o uso de um segundo WebService da Google usando a chave **photo_reference** disponibilizada no JSON anterior de places. 
 Caso não exista a variável **photos** que é um dicionário que contém a variável **photo_reference**, significa que o google não possui foto deste local e não dá para consultar a foto.
 
--Exemplo:
+Exemplo:
 
     ...
     photos:[{
@@ -169,9 +169,9 @@ Mais detalhes desse WS pode ser visto [aqui][5].
 
 Procedimentos
 -------------------
-1 - Clonar ou fazer download deste projeto 
-2 - Implementar a interface conforme exemplo do diretório Design. O design deve ser adaptado para ser executado no iPhone.
-4 - Para consultar os dados, tanto do Parse e Google Places, será necessário ter as chaves de acesso de cada API. Estas serão enviadas no email de resposta após o envio do email para <toni@madeinweb.com.br> confirmando o interesse no processo de seleção.
+ 1. Clonar ou fazer download deste projeto 
+ 2. Implementar a interface conforme exemplo do diretório Design. O design deve ser adaptado para ser executado no iPhone.
+ 3. Para consultar os dados, tanto do Parse e Google Places, será necessário ter as chaves de acesso de cada API. Estas serão enviadas no email de resposta após o envio do email para <toni@madeinweb.com.br> confirmando o interesse no processo de seleção.
 
 PS: O tempo começará a ser contabilizado no momento em que você receber este email com as chaves de acesso.
 

@@ -42,8 +42,6 @@ Classes Parse
 -------------------
 Este teste possui 2 classes (ou tabelas) hospedadas no [Parse][1].
 
-- **Cidades**
-- **Comentarios**
 #### <i class="icon-file"></i> Cidades
 Nesta classe a única variável de interesse é a **nome** pois será ela que preencherá a célula da tableview na listagem de cidades.
 

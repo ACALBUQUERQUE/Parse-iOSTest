@@ -1,3 +1,6 @@
+** DEPRECATED **
+
+
 Teste iOS (Parse + Google Places API)
 ===================
 
@@ -171,7 +174,7 @@ Procedimentos
 -------------------
  1. Clonar este projeto p/ sua conta GitHub.
  2. Implementar a interface conforme exemplo do diretório Design. O design deve ser adaptado para ser executado no iPhone.
- 3. Para consultar os dados, tanto do Parse e Google Places, será necessário ter as chaves de acesso de cada API. Estas serão enviadas no email de resposta após o envio do email para <toni@madeinweb.com.br> confirmando o interesse no processo de seleção.
+ 3. Para consultar os dados, tanto do Parse e Google Places, será necessário ter as chaves de acesso de cada API. Estas serão enviadas no email de resposta após o envio do email para <contato@madeinweb.com.br> confirmando o interesse no processo de seleção.
 
 PS: O tempo começará a ser contabilizado no momento em que você receber este email com as chaves de acesso.
 
